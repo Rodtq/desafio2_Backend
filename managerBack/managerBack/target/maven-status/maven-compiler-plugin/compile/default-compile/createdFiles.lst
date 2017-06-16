@@ -1,0 +1,9 @@
+com\lenovo\lic\manager\managerBack\dto\MachineDto.class
+com\lenovo\lic\manager\managerBack\controller\ManagerController.class
+com\lenovo\lic\manager\managerBack\configuration\CorsConfig$1.class
+com\lenovo\lic\manager\managerBack\services\ManagerService.class
+com\lenovo\lic\manager\managerBack\repository\IMachineRepository.class
+com\lenovo\lic\manager\managerBack\controller\ManagerController$ConnectParams.class
+com\lenovo\lic\manager\managerBack\ManagerBackApplication.class
+com\lenovo\lic\manager\managerBack\configuration\CorsConfig.class
+com\lenovo\lic\manager\managerBack\model\Machine.class
